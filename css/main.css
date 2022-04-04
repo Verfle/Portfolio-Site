@@ -17,7 +17,7 @@ li {
 .container {
 	max-width: 960px;
 	margin: 0 auto;
-	padding: 1rem;
+	padding: 1.5rem;
 }
 /* header */
 header {
@@ -106,6 +106,10 @@ main {
 .line-ughm {
 	height: 1.5rem;
 	background-color: #000;
+}
+/* line */
+.line {
+	border-bottom: 1px solid #fff;
 }
 /* media screen */
 @media screen and (max-width: 720px) {
